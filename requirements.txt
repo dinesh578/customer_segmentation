@@ -1,0 +1,10 @@
+ 
+flask
+jsonify
+requests
+sklearn
+numpy 
+pandas 
+
+
+sklearn
